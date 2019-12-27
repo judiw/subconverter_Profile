@@ -32,6 +32,9 @@ DOMAIN-SUFFIX,nicovideo.jp
 # > TVer
 USER-AGENT,*TVer*
 DOMAIN,tver-api-data.s3.amazonaws.com,force-remote-dns
+DOMAIN,tver-api-meta.s3.amazonaws.com,force-remote-dns
+DOMAIN,manifest.prod.boltdns.net,force-remote-dns
+DOMAIN,cf-images.ap-northeast-1.prod.boltdns.net,force-remote-dns
 DOMAIN-SUFFIX,brightcove.com,force-remote-dns
 DOMAIN-SUFFIX,brightcove.net,force-remote-dns
 DOMAIN-SUFFIX,tver.jp,force-remote-dns
