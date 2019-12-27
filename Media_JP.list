@@ -32,3 +32,4 @@ USER-AGENT,*TVer*
 DOMAIN,tver-api-data.s3.amazonaws.com,force-remote-dns
 DOMAIN-SUFFIX,tver.jp,force-remote-dns
 DOMAIN-SUFFIX,interactive-circle.jp,force-remote-dns
+DOMAIN-SUFFIX,brightcove.net,force-remote-dns
