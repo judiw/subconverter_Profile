@@ -37,3 +37,4 @@ DOMAIN-SUFFIX,brightcove.net,force-remote-dns
 DOMAIN-SUFFIX,tver.jp,force-remote-dns
 DOMAIN-SUFFIX,interactive-circle.jp,force-remote-dns
 DOMAIN-SUFFIX,api.tv-tokyo.co.jp,force-remote-dns
+DOMAIN-SUFFIX,fujitv.co.jp,force-remote-dns
