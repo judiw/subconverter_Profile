@@ -10,7 +10,7 @@ DOMAIN,ds-vod-abematv.akamaized.net,force-remote-dns
 DOMAIN,linear-abematv.akamaized.net,force-remote-dns
 DOMAIN,api.bucketeer.jp,force-remote-dns
 DOMAIN,license.theoplayer.com,force-remote-dns
-IP-CIDR,35.189.128.0/19,no-resolve
+#IP-CIDR,35.189.128.0/19,no-resolve
 
 # > DMM
 DOMAIN-SUFFIX,dmm.co.jp
@@ -32,7 +32,6 @@ DOMAIN-SUFFIX,nicovideo.jp
 # > TVer
 USER-AGENT,*TVer*
 DOMAIN,tver-api-data.s3.amazonaws.com,force-remote-dns
-DOMAIN,manifest.prod.boltdns.net,force-remote-dns
 DOMAIN-SUFFIX,brightcove.com,force-remote-dns
 DOMAIN-SUFFIX,brightcove.net,force-remote-dns
 DOMAIN-SUFFIX,tver.jp,force-remote-dns
