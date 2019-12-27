@@ -8,6 +8,8 @@ DOMAIN,abematv.akamaized.net,force-remote-dns
 DOMAIN,ds-linear-abematv.akamaized.net,force-remote-dns
 DOMAIN,ds-vod-abematv.akamaized.net,force-remote-dns
 DOMAIN,linear-abematv.akamaized.net,force-remote-dns
+DOMAIN,api.bucketeer.jp,force-remote-dns
+DOMAIN,license.theoplayer.com,force-remote-dns
 IP-CIDR,35.189.128.0/19,no-resolve
 
 # > DMM
