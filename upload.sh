@@ -6,5 +6,6 @@ cd /www/wwwroot/sub/
 /usr/bin/git add upload.sh
 /usr/bin/git add pref.ini
 /usr/bin/git add blocked_aliyun.list
+/usr/bin/git add Media_JP.list
 /usr/bin/git commit -m "Auto Update"
 /usr/bin/git push -u origin master
