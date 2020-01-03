@@ -5,7 +5,7 @@ cd /www/wwwroot/sub/
 /bin/git add china_ip.list
 /bin/git add upload.sh
 /bin/git add pref.ini
-/bin/git add blocked_aliyun.list
+/bin/git add ip_block.list
 /bin/git add Media_JP.list
 /bin/git add game.list
 /bin/git commit -m "Auto Update"
