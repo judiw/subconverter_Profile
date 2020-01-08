@@ -267,4 +267,4 @@ custom_proxy_group=v2ray`select`!!GROUP=V2RayProvider
 
 > Automatically upload gist.
 
-Add personal access token in [gistconf.ini](./gistconf.ini), add `upload=true` after the link will automatically upload gist after updating.# subconverter_Profile
+Add personal access token in [gistconf.ini](./gistconf.ini), add `upload=true` after the link will automatically upload gist after updating.
