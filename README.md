@@ -72,17 +72,17 @@ If you have multiple subscriptions, use '|' to separate the links before url enc
 
 e.g. <br>
 > I have the following two subscriptions: <br>
-`https://dler.cloud/subscribe/ABCDE?clash=vmess`
-`https://rich.cloud/subscribe/ABCDE?clash=vmess`
+`https://dlercloud/subscribe/ABCDE?clash=vmess`
+`https://richcloud/subscribe/ABCDE?clash=vmess`
 <br> <br>
 separated by '|': <br>
-`https://dler.cloud/subscribe/ABCDE?clash=vmess|https://rich.cloud/subscribe/ABCDE?clash=vmess`
+`https://dlercloud/subscribe/ABCDE?clash=vmess|https://richcloud/subscribe/ABCDE?clash=vmess`
 <br> <br>
 after url encode: <br>
-`https%3A//dler.cloud/subscribe/ABCDE%3Fclash%3Dvmess%7Chttps%3A//rich.cloud/subscribe/ABCDE%3Fclash%3Dvmess`
+`https%3A//dlercloud/subscribe/ABCDE%3Fclash%3Dvmess%7Chttps%3A//richcloud/subscribe/ABCDE%3Fclash%3Dvmess`
 <br> <br>
 add to the back of the link: <br>
-`http://127.0.0.1:25500/sub?target=clash&url=https%3A//dler.cloud/subscribe/ABCDE%3Fclash%3Dvmess%7Chttps%3A//rich.cloud/subscribe/ABCDE%3Fclash%3Dvmess `
+`http://127.0.0.1:25500/sub?target=clash&url=https%3A//dlercloud/subscribe/ABCDE%3Fclash%3Dvmess%7Chttps%3A//richcloud/subscribe/ABCDE%3Fclash%3Dvmess `
 <br> <br>
 &nbsp;&nbsp;&#127830; Edible &#127830;
 <br> <br>

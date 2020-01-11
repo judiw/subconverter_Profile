@@ -61,17 +61,17 @@ http://127.0.0.1:25500/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
 
 ```TXT
 有以下两个订阅，且想合并转换成 Clash 的订阅:
-1. https://dler.cloud/subscribe/ABCDE?clash=vmess
-2. https://rich.cloud/subscribe/ABCDE?clash=vmess
+1. https://dlercloud/subscribe/ABCDE?clash=vmess
+2. https://richcloud/subscribe/ABCDE?clash=vmess
 
 首先使用 '|' 将两个订阅分隔开:
-https://dler.cloud/subscribe/ABCDE?clash=vmess|https://rich.cloud/subscribe/ABCDE?clash=vmess
+https://dlercloud/subscribe/ABCDE?clash=vmess|https://richcloud/subscribe/ABCDE?clash=vmess
 
 接着通过 URLEncode 后可以得到:
-https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+https%3A%2F%2Fdlercloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frichcloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 然后将想要的 %TARGET% (即 clash) 和上一步所得到的 %URL% 填入调用地址中:
-http://127.0.0.1:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+http://127.0.0.1:25500/sub?target=clash&url=https%3A%2F%2Fdlercloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frichcloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 最后将该链接填写至 Clash 的订阅处就大功告成了。
 ```
