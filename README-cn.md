@@ -124,19 +124,19 @@ http://127.0.0.1:25500/sub?target=%TARGET%&url=%URL%&emoji=%EMOJI%····
 举个例子：
 
 ```TXT
-有订阅 `https://dler.cloud/subscribe/ABCDE?clash=vmess`，想转换成 Surge 4 的订阅，且需要开启 TFO 和 UDP
-顺便再给节点名加上 EMOJI 同时排除掉订阅中显示流量和官网的节点（节点名为"剩余流量：1024G"，"官网地址：dler.cloud"）
+有订阅 `https://dlercloud/subscribe/ABCDE?clash=vmess`，想转换成 Surge 4 的订阅，且需要开启 TFO 和 UDP
+顺便再给节点名加上 EMOJI 同时排除掉订阅中显示流量和官网的节点（节点名为"剩余流量：1024G"，"官网地址：dlercloud"）
 
 首先确认需要用到的参数：
 target=surge&ver=4 、 tfo=true 、 udp=true 、 emoji=true 、exclude=(流量|官网)
-url=https://dler.cloud/subscribe/ABCDE?clash=vmess
+url=https://dlercloud/subscribe/ABCDE?clash=vmess
 
 然后将需要 URLEncode 的部分进行处理：
 exclude=%28%E6%B5%81%E9%87%8F%7C%E5%AE%98%E7%BD%91%29
-url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+url=https%3A%2F%2Fdlercloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 接着将所有元素进行拼接：
-http://127.0.0.1:25500/sub?target=surge&ver=4&tfo=true&udp=true&emoji=true&exclude=%28%E6%B5%81%E9%87%8F%7C%E5%AE%98%E7%BD%91%29&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+http://127.0.0.1:25500/sub?target=surge&ver=4&tfo=true&udp=true&emoji=true&exclude=%28%E6%B5%81%E9%87%8F%7C%E5%AE%98%E7%BD%91%29&url=https%3A%2F%2Fdlercloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 最后将该链接填写至 Surge 的订阅处就大功告成了。
 ```
@@ -164,7 +164,7 @@ http://127.0.0.1:25500/sub?target=surge&ver=4&tfo=true&udp=true&emoji=true&exclu
     - 例如:
 
      ```ini
-     default_url='https://dler.cloud/subscribe/ABCDE?clash=vmess'
+     default_url='https://dlercloud/subscribe/ABCDE?clash=vmess'
      ```
 
     - 解释：
@@ -173,7 +173,7 @@ http://127.0.0.1:25500/sub?target=surge&ver=4&tfo=true&udp=true&emoji=true&exclu
      此时订阅链接:
      http://127.0.0.1:25500/sub?target=clash
      等同于:
-     http://127.0.0.1:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+     http://127.0.0.1:25500/sub?target=clash&url=https%3A%2F%2Fdlercloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
      ```
 
 1. **exclude_remarks**

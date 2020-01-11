@@ -118,14 +118,14 @@ When the value is `false`, `pref.ini` is read every time the configuration is up
 
 This usage:
 ```ini
-default_url=https://dler.cloud/subscribe/ABCDE?clash=vmess
+default_url=https://dlercloud/subscribe/ABCDE?clash=vmess
 ```
 
 `http://127.0.0.1:25500/clash`
 
 equivalent to:
 <br>
-`http://127.0.0.1:25500/sub?target=clash&url=https%3A//dler.cloud/subscribe/ABCDE%3Fclash%3Dvmess`
+`http://127.0.0.1:25500/sub?target=clash&url=https%3A//dlercloud/subscribe/ABCDE%3Fclash%3Dvmess`
 
 
 
