@@ -1,0 +1,30 @@
+🔰 节点选择`select`[]♻️ 自动选择`[]🎯 全球直连`.*
+♻️ 自动选择`url-test`(V40[34])`http://www.gstatic.com/generate_204`300
+🇹🇼 TW Media`select`[]🔰 节点选择`[]🎯 全球直连`(?i:TW|Taiwan|新北|彰化|CHT|TFN|台湾|[^-]台|HINET)
+🇯🇵 JP Media`select`[]🔰 节点选择`[]🎯 全球直连`(KDDI|BBIX|福冈|大阪|东京|埼玉|jp|JP|[^-]日)
+🇭🇰 HK Media`select`[]🔰 节点选择`[]🎯 全球直连`(?i:HK|Hong.*?Kong|HKT|HKBN|HGC|WTT|CMI|[^-]港)
+🇬🇧 UK Media`select`[]🔰 节点选择`[]🎯 全球直连`(英国|伦敦|uk|UK|[^-]英)
+🇺🇲 US Media`select`[]🔰 节点选择`[]🎯 全球直连`(美国|[^-]美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥)
+🎬 NETFLIX`select`[]🔰 节点选择`[]🎯 全球直连`.*
+🎬 AmazonPrime`select`[]🔰 节点选择`[]🎯 全球直连`.*
+🎬 DisneyPlus`select`[]🔰 节点选择`[]🎯 全球直连`.*
+▶️ YouTube`select`[]🔰 节点选择`[]🎯 全球直连`.*
+🎵 YouTubeMusic`select`[]🔰 节点选择`[]🎯 全球直连`.*
+🎵 Spotify`select`[]🔰 节点选择`[]🎯 全球直连`.*
+🎮 Twitch`select`[]🔰 节点选择`[]🎯 全球直连`.*
+🌐 IP审查严格的网站`select`[]🔰 节点选择`[]🎯 全球直连`.*
+🎮 主机游戏加速`select`[]🔰 节点选择`[]🎯 全球直连`.*
+🌍 国外媒体`select`[]🔰 节点选择`[]🎯 全球直连`.*
+🌍 国内媒体（海外限定服务）`select`[]🎯 全球直连`(?i:TW|Taiwan|新北|彰化|CHT|TFN|台湾|[^-]台|HINET|?i:HK|Hong.*?Kong|HKT|HKBN|HGC|WTT|CMI|[^-]港)`[]🔰 节点选择
+🌏 国内媒体`select`[]🎯 全球直连`(?i:CN|China|回国|中国|江苏|北京|上海|广州|深圳|杭州|徐州|青岛|宁波|镇江|back)`[]🔰 节点选择
+Ⓜ️ 微软服务`select`[]🎯 全球直连`[]🔰 节点选择`.*
+📲 电报信息`select`[]🔰 节点选择`.*`[]🎯 全球直连
+🔍 谷歌服务`select`[]🔰 节点选择`.*`[]🎯 全球直连
+💳 PayPal服务`select`[]🎯 全球直连`[]🔰 节点选择`.*
+⏬ Speedtest.net`select`[]🔰 节点选择`[]🎯 全球直连`.*
+🍎 苹果服务`select`[]🔰 节点选择`[]🎯 全球直连`.*
+⛔️ 广告拦截`select`[]🛑 全球拦截`[]🎯 全球直连`[]🔰 节点选择
+🚫 ISP劫持`select`[]🛑 全球拦截`[]🎯 全球直连`[]🔰 节点选择
+🎯 全球直连`select`[]DIRECT
+🛑 全球拦截`select`[]REJECT`[]DIRECT
+🐟 漏网之鱼`select`[]🔰 节点选择`[]🎯 全球直连`.*

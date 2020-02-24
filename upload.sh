@@ -8,8 +8,8 @@ cd /www/wwwroot/sub/
 /bin/git add rules/ip_block.list
 /bin/git add rules/Media_JP.list
 /bin/git add rules/game.list
-/bin/git add /snippets/rulesets.txt
-/bin/git add /snippets/groups.txt
-/bin/git add /snippets/emoji.txt
+/bin/git add snippets/rulesets.txt
+/bin/git add snippets/groups.txt
+/bin/git add snippets/emoji.txt
 /bin/git commit -m "Auto Update"
 /bin/git push -u origin master
