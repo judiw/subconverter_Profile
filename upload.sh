@@ -5,6 +5,7 @@ cd /www/wwwroot/sub/
 /bin/git add rules/china_ip.list
 /bin/git add upload.sh
 /bin/git add Unlock_Abema.js
+/bin/git add README.md
 /bin/git add rules/ip_block.list
 /bin/git add rules/Media_JP.list
 /bin/git add rules/game.list
