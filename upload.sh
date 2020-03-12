@@ -12,5 +12,7 @@ cd /www/wwwroot/sub/
 /bin/git add snippets/rulesets.txt
 /bin/git add snippets/groups.txt
 /bin/git add snippets/emoji.txt
+/bin/git add snippets/rulesets_lhie1.txt
+/bin/git add snippets/groups_lhie1.txt
 /bin/git commit -m "Auto Update"
 /bin/git push -u origin master

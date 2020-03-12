@@ -1,0 +1,41 @@
+🎯 全球直连,rules/LocalAreaNetwork.list
+Ⓜ️ 微软服务,rules/MSServices.list
+🛑 全球拦截,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list
+🎬 NETFLIX,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Netflix.list
+🇹🇼 TW Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Bahamut.list
+🇭🇰 HK Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/myTV%20SUPER.list
+🇭🇰 HK Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/ViuTV.list
+🇭🇰 HK Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/HBO.list
+🇭🇰 HK Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/JOOX.list
+🇯🇵 JP Media,rules/Media_JP.list
+🇯🇵 JP Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Abema%20TV.list
+🇯🇵 JP Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Hulu%20Japan.list
+;🇯🇵 JP Media,https://raw.githubusercontent.com/maxduke/Rules/master/Surge/Media_JP.list
+🇬🇧 UK Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/BBC%20iPlayer.list
+🇺🇲 US Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Fox%20Now.list
+🇺🇲 US Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/FoxPlus.list
+🇺🇲 US Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Hulu.list
+🇺🇲 US Media,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/encoreTVB.list
+▶️ YouTube,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/YouTube.list
+🎵 YouTubeMusic,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/YouTube%20Music.list
+🎵 Spotify,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Spotify.list
+🎬 AmazonPrime,https://github.com/lhie1/Rules/blob/master/Surge/Surge%203/Provider/Media/Amazon.list
+🎬 DisneyPlus,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/DisneyPlus.list
+🌐 IP审查严格的网站,rules/ip_block.list
+🎮 主机游戏加速,rules/game.list
+🎮 Steam,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Steam.list
+🌍 国外媒体,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/GlobalTV.list
+🌍 国内媒体（海外限定服务）,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/iQiyi.list
+🌍 国内媒体（海外限定服务）,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Bilibili.list
+🌏 国内媒体,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/AsianTV.list
+⏬ Speedtest.net,hhttps://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Speedtest.list
+📲 电报信息,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Telegram.list
+🔰 节点选择,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Proxy.list
+;🔰 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
+🍎 苹果服务,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list
+🎯 全球直连,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
+🎯 全球直连,https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Download.list
+;🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+;🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
+🎯 全球直连,rules/china_ip.list
+🐟 漏网之鱼,[]FINAL
