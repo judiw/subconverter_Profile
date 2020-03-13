@@ -24,6 +24,7 @@
 🎵 Spotify,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Spotify.list
 🎬 AmazonPrime,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Amazon.list
 🎬 DisneyPlus,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/DisneyPlus.list
+🔞 Pornhub,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Pornhub.list
 🎮 Twitch,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Twitch.list
 🌐 IP审查严格的网站,rules/ip_block.list
 🎮 主机游戏加速,rules/game.list
