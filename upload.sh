@@ -2,6 +2,7 @@
 /bin/wget https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt -O /www/wwwroot/sub/rules/china_ip_list.txt
 /bin/sed 's/^/IP-CIDR,&/g' /www/wwwroot/sub/rules/china_ip_list.txt > /www/wwwroot/sub/rules/china_ip.list
 cd /www/wwwroot/sub/
+/bin/git add base/GeneralClashConfig.yml
 /bin/git add rules/china_ip.list
 /bin/git add upload.sh
 /bin/git add Unlock_Abema.js
