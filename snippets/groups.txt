@@ -1,5 +1,5 @@
 🔰 节点选择`select`[]♻️ 自动选择`[]🎯 全球直连`.*
-♻️ 自动选择`url-test`(V40[34])`http://www.gstatic.com/generate_204`300
+♻️ 自动选择`url-test`(V40[78])`http://www.gstatic.com/generate_204`300
 🇹🇼 TW Media`select`[]🔰 节点选择`[]🎯 全球直连`(?i:TW|Taiwan|新北|彰化|CHT|TFN|台湾|[^-]台|HINET)
 🇯🇵 JP Media`select`[]🔰 节点选择`[]🎯 全球直连`(KDDI|BBIX|福冈|大阪|东京|埼玉|jp|JP|[^-]日)
 🇭🇰 HK Media`select`[]🔰 节点选择`[]🎯 全球直连`(?i:HK|Hong.*?Kong|HKT|HKBN|HGC|WTT|CMI|[^-]港)
